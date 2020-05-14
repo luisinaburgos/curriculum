@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;600;700&display=swap');
+
+body {
+	font-family: 'Asap', sans-serif;
+}
+
+#fotocv {
+	width: 100%;
+}
+
+.collapsetit {
+	margin-top: 5%;
+	color: #e3812f;
+	background-color: #232634;
+	padding: 10px;
+}
+
+.icono {
+	width: 8%;
+}
+
+.card-header-title {
+	font-size: 100%;
+	font-weight: bolder;
+}
+
+.bloque {
+	-webkit-box-shadow: 10px 10px 23px -11px rgba(0,0,0,0.56);
+-moz-box-shadow: 10px 10px 23px -11px rgba(0,0,0,0.56);
+box-shadow: 10px 10px 23px -11px rgba(0,0,0,0.56);
+margin:10px;
+}
+
+#subtitulo {
+	color: white;
+}
+
+.encabezado {
+		color: #e3812f;
+	background-color: #232634;
+	padding: 2%;
+}
+
+.cont {
+	display: flex;
+	align-items: center;
+}
+
+i {
+	margin-right: 3%;
+}
+
+#portfolio {
+	margin-left: 8%;
+}
+
+#desc {
+	padding: 2%;
+	font-size: 90%;
+}
+
+.custom-range {
+	width: 100%;
+
+
+}
+.custom-range::-moz-range-track {
+	background-color: #e3812f;
+}
+
+.custom-range:disabled::-moz-range-thumb {
+	background-color: #232634;
+}
